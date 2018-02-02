@@ -4,11 +4,11 @@
 
 import os
 
-print("desaivando interface de rede eth0 ")
+print("desativando interface de rede eth0 ")
 
 
 os.system("ifconfig")
 
 os.system("ifconfig eth0 down")
 
-print()
+print("eth0 desativada")
