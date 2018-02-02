@@ -1,0 +1,3 @@
+ifconfig-ifconfig-down.py
+
+facil implementação de iw dev / airmon-ng / airplay-ng / ... 
